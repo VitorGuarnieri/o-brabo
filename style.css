@@ -1,16 +1,25 @@
+
 .cabeçalho{
+   display: flex;
+   justify-content:space-between;
    background-color: #95f5d0
+
 }
 .img{
-   width: 30%;
+   width: 25%;
+justify-content: right;
 }
 .imgs{
-   width: 40%;
+   width: 20%;
+   position: absolute;
+   top: 15 ;
+   left: 15;
 }
 .case{
-   width: 70%;
+   width: 30%;
 }
 .t7{
+   
    width: 30%;
 }
 .mf{
@@ -20,13 +29,13 @@
    width:30% ;
 }
 .valtra{
-   width:30% ;
+   width:22% ;
 }
 .valt{
-   width:30% ;
+   width:22% ;
 }
 .newt7{
-   width: ;
+   width:30% ;
 } 
 .deer {
    width: 30%;
@@ -53,5 +62,9 @@
    width:30% ;
 }
 .New-Holland-Logo.jpg{
-   width:10%;
-}
+   width:30%;
+
+   }
+   .brabo{
+      grid-template-columns: auto;
+   }
