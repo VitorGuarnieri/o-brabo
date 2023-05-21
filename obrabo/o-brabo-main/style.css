@@ -1,0 +1,130 @@
+
+.cabeçalho{
+   display: flex;
+   justify-content:space-between;
+   background-color: #95f5d0
+
+}
+.img{
+   width: 25%;
+justify-content: right;
+}
+.imgs{
+   width: 20%;
+   position: absolute;
+   top: 15 ;
+   left: 15;
+}
+.case{
+   width: 42%;
+}
+
+.mf{
+   width: 30%;
+}
+.john{
+   width:30% ;
+}
+
+.valt{
+   width:22% ;
+}
+
+.deer {
+   width: 30%;
+
+}
+.jd {
+   width:30% ;
+}
+.cas{
+   width:30% ;
+}
+.holl{
+   width:40% ;
+}
+
+.t4{
+   width: 40%;
+}
+.logojohn{
+   width: 30%;
+}
+
+
+   .brabo{
+      grid-template-columns: auto;
+   }
+   .blz{
+      background-color: rgb(143, 229, 229);
+     }
+   .Marcas{
+      position: absolute;
+      left: 78%;
+      margin-top: -16%;
+   }
+   .C{
+      position: absolute;
+      left: 79%;
+      margin-top: -12%;
+      background-color: rgb(231, 25, 25);
+   }
+   .N{
+      position: absolute;
+      left: 76%;
+      margin-top: -8%;
+      background-color: blue;
+
+   }
+   .J{
+      position: absolute;
+      left: 77%;
+      margin-top: -4%;
+      background-color: rgb(56, 235, 56);
+
+   }
+   .V{
+      position: absolute;
+      left: 78%;
+      margin-top: 0%;
+      background-color: rgb(241, 238, 14);
+   }
+ .SC{
+   background-color: black;
+   
+   
+ }
+ .TC{
+   background-color: white;
+   width: 30%;
+ }
+ .TC2{
+   background-color: white;
+   width: 60%;
+
+ }
+ .Q{
+  width: 34%;
+  float: right;
+  position: absolute;
+  left: 60%;
+ }
+ .cas{
+  
+   width:20% 
+ }
+ .SN{
+   background-color: yellow;
+ }
+ .Logo{
+   width: 15%;
+ }
+.SJ{
+   background-color: green;
+}
+.SV{
+   background-color: darkgoldenrod;
+}
+.Vl{
+   width: 15%;
+}
