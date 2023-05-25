@@ -27,8 +27,14 @@ justify-content: right;
 }
 
 .valt{
-   width:22% ;
+   width: 38% ;
+   position: relative;
+   left: 0;
+
+
+
 }
+
 
 .deer {
    width: 30%;
@@ -42,6 +48,8 @@ justify-content: right;
 }
 .holl{
    width:40% ;
+   position: relative;
+   left: 15%;
 }
 
 .t4{
@@ -91,6 +99,7 @@ justify-content: right;
    }
  .SC{
    background-color: black;
+   height: 1000px;
    
    
  }
@@ -115,16 +124,53 @@ justify-content: right;
  }
  .SN{
    background-color: yellow;
+   height: 1000px;
+ }
+ .TN{
+   background-color: white;
  }
  .Logo{
    width: 15%;
  }
 .SJ{
    background-color: green;
+   height: 1000px;
+
+}
+.TJ{
+   background-color: white;
+   
+}
+.TJ2{
+   background-color: white;
+}
+.john{
+   width: 35%;
+   position: relative;
+   left: 30%;
 }
 .SV{
    background-color: darkgoldenrod;
+   height: 1000px;
 }
 .Vl{
    width: 15%;
+   position: relative;
+   top: -5%;
+   left: 0%;
+
+}
+.Bh{
+   width: 45%;
+ position: relative;
+ left: 15%;
+
+}
+.TV{
+   position: relative;
+   margin-top: -5%;
+   background-color: white;
+}
+.TV2{
+   background-color: white;
 }
