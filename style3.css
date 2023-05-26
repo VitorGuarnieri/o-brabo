@@ -1,0 +1,25 @@
+.holl{
+    width:40% ;
+    position: relative;
+    left: 15%;
+ }
+ .N{
+    position: absolute;
+    left: 0%;
+    margin-top: -12%;
+    background-color: blue;
+
+ }
+
+ .SN{
+    background-color: yellow;
+    height: 1000px;
+  }
+  .TN{
+    background-color: white;
+  }
+
+
+.t4{
+   width: 40%;
+}

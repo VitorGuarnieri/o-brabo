@@ -1,0 +1,32 @@
+.SC{
+    background-color: black;
+    height: 1000px;
+    
+
+    }
+    .case{
+        width: 42%;
+     }
+     .cas{
+        width:30% ;
+     }
+     .Q{
+        width: 34%;
+        float: right;
+        position: absolute;
+        left: 60%;
+       }
+       .cas{
+        
+         width:20% 
+       }
+    
+    .TC{
+      background-color: white;
+      width: 30%;
+    }
+    .TC2{
+      background-color: white;
+      width: 60%;
+   
+    }

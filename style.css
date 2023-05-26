@@ -16,29 +16,29 @@ justify-content: right;
    left: 15;
 }
 .case{
-   width: 30%;
+   width: 42%;
 }
-.t7{
-   
-   width: 30%;
-}
+
 .mf{
    width: 30%;
 }
 .john{
    width:30% ;
 }
-.valtra{
-   width:22% ;
-}
+
 .valt{
-   width:22% ;
+   width: 38% ;
+   position: relative;
+   left: 0;
+
+
+
 }
-.newt7{
-   width:30% ;
-} 
+
+
 .deer {
    width: 30%;
+
 }
 .jd {
    width:30% ;
@@ -47,24 +47,130 @@ justify-content: right;
    width:30% ;
 }
 .holl{
-   width:30% ;
+   width:40% ;
+   position: relative;
+   left: 15%;
 }
-.casee {
-   width:30% ;
-}
+
 .t4{
-   width: 30%;
+   width: 40%;
 }
 .logojohn{
    width: 30%;
 }
-.valtra.svg{
-   width:30% ;
-}
-.New-Holland-Logo.jpg{
-   width:30%;
 
-   }
+
    .brabo{
       grid-template-columns: auto;
    }
+   .blz{
+      background-color: rgb(143, 229, 229);
+     }
+   .Marcas{
+      position: absolute;
+      left: 78%;
+      margin-top: -20%;
+   }
+   .C{
+      position: absolute;
+      left: 79%;
+      margin-top: -16%;
+      background-color: rgb(231, 25, 25);
+   }
+   .N{
+      position: absolute;
+      left: 78%;
+      margin-top: -12%;
+      background-color: blue;
+
+   }
+   .J{
+      position: absolute;
+      left: 77%;
+      margin-top: -8%;
+      background-color: rgb(56, 235, 56);
+
+   }
+   .V{
+      position: absolute;
+      left: 79%;
+      margin-top: -4%;
+      background-color: rgb(241, 238, 14);
+   }
+ .SC{
+   background-color: black;
+   height: 1000px;
+   
+   
+ }
+ .TC{
+   background-color: white;
+   width: 30%;
+ }
+ .TC2{
+   background-color: white;
+   width: 60%;
+
+ }
+ .Q{
+  width: 34%;
+  float: right;
+  position: absolute;
+  left: 60%;
+ }
+ .cas{
+  
+   width:20% 
+ }
+ .SN{
+   background-color: yellow;
+   height: 1000px;
+ }
+ .TN{
+   background-color: white;
+ }
+ .Logo{
+   width: 15%;
+ }
+.SJ{
+   background-color: green;
+   height: 1000px;
+
+}
+.TJ{
+   background-color: white;
+   
+}
+.TJ2{
+   background-color: white;
+}
+.john{
+   width: 35%;
+   position: relative;
+   left: 30%;
+}
+.SV{
+   background-color: darkgoldenrod;
+   height: 1000px;
+}
+.Vl{
+   width: 15%;
+   position: relative;
+   top: -5%;
+   left: 0%;
+
+}
+.Bh{
+   width: 45%;
+ position: relative;
+ left: 15%;
+
+}
+.TV{
+   position: relative;
+   margin-top: -5%;
+   background-color: white;
+}
+.TV2{
+   background-color: white;
+}
