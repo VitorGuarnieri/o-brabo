@@ -1,25 +1,22 @@
 .john{
-    width:30% ;
+    width:40% ;
+    height: 50%;
+    position: absolute;
+    right: 5%;
  }
- .deer {
-    width: 30%;
- 
- }
+
  .jd {
-    width:30% ;
+    width:40% ;
+    height: 50%;
+    position: absolute;
+    left: 2%;
  }
  .logojohn{
     width: 30%;
  }
  
- .J{
-    position: absolute;
-    left: 77%;
-    margin-top: -8%;
-    background-color: rgb(56, 235, 56);
-    
 
-    }
+
     .SJ{
         background-color: green;
         height: 1000px;

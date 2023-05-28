@@ -1,7 +1,7 @@
 .holl{
     width:40% ;
-    position: relative;
-    left: 15%;
+    position:absolute;
+    right: 2%;
  }
  .N{
     position: absolute;
@@ -18,8 +18,12 @@
   .TN{
     background-color: white;
   }
-
+.TNN{
+   background-color: white;
+}
 
 .t4{
    width: 40%;
+   position: absolute;
+   left: 2%;
 }

@@ -1,0 +1,33 @@
+.Vl{
+    width: 15%;
+    position: relative;
+    top: -5%;
+    left: 0%;
+ 
+ }
+ .Bh{
+    width: 45%;
+position: absolute;
+right: 2%;
+ 
+ }
+ .TV{
+    position: relative;
+    margin-top: -5%;
+    background-color: white;
+ }
+ .TV2{
+    background-color: white;
+ }
+ .SV{
+    background-color: darkgoldenrod;
+    height: 1000px;
+ }
+ .valt{
+    width: 38% ;
+    position: absolute;
+    left: 2%;
+ 
+ 
+ 
+ }
